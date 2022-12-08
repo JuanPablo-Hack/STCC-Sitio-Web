@@ -11,30 +11,16 @@
                         </li>
                     </ul>
                 </div>
-                <div class="col-md-6 col-lg-6 col-sm-6 col-xs-12">
-                    <div class="header__top__right">
-                        <ul class="login-register">
-                            <li><a href="login-register.html">LOGIN</a></li>
-                            <li class="separator">/</li>
-                            <li><a href="login-register.html">REGISTER</a></li>
-                        </ul>
-                        <div class="heaher__top__btn">
-                            <a href="#">Buy Now</a>
-                        </div>
-                    </div>
-                </div>
             </div>
         </div>
     </div>
-    <!-- End Header Top -->
-    <!-- Start Mainmenu Area -->
     <div id="sticky-header-with-topbar" class="mainmenu__wrap sticky__header">
         <div class="container">
             <div class="row">
                 <div class="col-md-2 col-sm-6 col-xs-7">
                     <div class="logo">
                         <a href="index.html">
-                            <img src="assets/images/logo/sinply-construction.png" alt="logo image" />
+                            <img src="assets/images/logo/logo.png" alt="logo image" />
                         </a>
                     </div>
                 </div>

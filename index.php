@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html class="no-js" lang="en">
+<html class="no-js" lang="es">
 
 <head>
   <?php include 'templates/head.php'; ?>
@@ -19,16 +19,11 @@
             <div class="row">
               <div class="col-md-12 col-lg-12">
                 <div class="slider__inner">
-                  <h4>SCIENCE 1953</h4>
-                  <h1>WE BUILD THE TRUST</h1>
+                  <h4>DESDE 1987</h4>
+                  <h1>SERVICIOS DE CALIDAD Y EFICACIA</h1>
                   <p>
-                    On the other hand, we denounce with righteous indignation
-                    and dislike men who are so beguiled and demoralized by the
-                    charms of pleasure of the moment
+                    Supervisiones Técnicas y Control de Calidad (STCC) fue creada con la finalidad de servir a la industria de la construcción, permitiendo mejorar la calidad de los proyectos de nuestros clientes, brindándoles seguridad, rapidez y confianza
                   </p>
-                  <div class="slider__btn">
-                    <a class="htc__btn" href="contact.html">CONTACT US</a>
-                  </div>
                 </div>
               </div>
             </div>
@@ -47,12 +42,12 @@
             <div class="row">
               <div class="col-md-12 col-lg-12">
                 <div class="slider__inner">
-                  <h4>SCIENCE 1953</h4>
-                  <h1>WE BUILD THE TRUST</h1>
+                  <h4>CONSTRUYENDO EL FUTURO</h4>
+                  <h1>
+                    SERVICIOS DE PRIMER MUNDO
+                  </h1>
                   <p>
-                    On the other hand, we denounce with righteous indignation
-                    and dislike men who are so beguiled and demoralized by the
-                    charms of pleasure of the moment
+                    Con más de 20 años de experiencia, nos hemos posicionado como una de las empresas más importantes a nivel nacional en la rama de la supervisión y control de calidad para la construcción, en la que nuestros clientes y socios comerciales nos recomiendan
                   </p>
                   <div class="slider__btn">
                     <a class="htc__btn" href="contact.html">CONTACT US</a>
@@ -77,10 +72,9 @@
                 <img src="assets/images/others/icon-2/1.png" alt="icon images" />
               </div>
               <div class="offer__details">
-                <h2><a href="#">TOP RATED</a></h2>
+                <h2><a href="#">MEJOR CALIFICADA</a></h2>
                 <p>
-                  On the other hand, we denounce with righteous indignation
-                  and dislike men who are so beguiled demoralized
+                  Lorem ipsum dolor sit amet consectetur adipisicing elit. Vero accusamus optio voluptates soluta quasi.
                 </p>
               </div>
             </div>
@@ -91,10 +85,9 @@
                 <img src="assets/images/others/icon-2/2.png" alt="icon images" />
               </div>
               <div class="offer__details">
-                <h2><a href="#">BEST QUALITY</a></h2>
+                <h2><a href="#">MEJOR CALIDAD</a></h2>
                 <p>
-                  On the other hand, we denounce with righteous indignation
-                  and dislike men who are so beguiled demoralized
+                  Lorem ipsum dolor sit amet consectetur adipisicing elit. Vero accusamus optio voluptates soluta quasi.
                 </p>
               </div>
             </div>
@@ -105,10 +98,9 @@
                 <img src="assets/images/others/icon-2/3.png" alt="icon images" />
               </div>
               <div class="offer__details">
-                <h2><a href="#">LOW COST</a></h2>
+                <h2><a href="#">BAJO COSTO</a></h2>
                 <p>
-                  On the other hand, we denounce with righteous indignation
-                  and dislike men who are so beguiled demoralized
+                  Lorem ipsum dolor sit amet consectetur adipisicing elit. Vero accusamus optio voluptates soluta quasi.
                 </p>
               </div>
             </div>
@@ -125,13 +117,10 @@
           <div class="col-xs-12">
             <div class="section__title text-center">
               <h2 class="title__line">
-                ABOUT <span class="text--theme">SIMPLY</span>
+                ACERCA DE <span class="text--theme">STCC</span>
               </h2>
               <p>
-                On the other hand, we denounce with righteous indignation and
-                dislike men who are so beguiled and demoralized by the charms
-                of pleasure of the moment, so blinded by desire
-              </p>
+                Con más de 20 años de experiencia, nos hemos posicionado como una de las empresas más importantes a nivel nacional en la rama de la supervisión y control de calidad para la construcción, en la que nuestros clientes y socios comerciales nos recomiendan. </p>
             </div>
           </div>
         </div>
@@ -139,25 +128,18 @@
           <div class="col-md-4 col-lg-3 col-lg-offset-1 col-sm-6 col-xs-12">
             <div class="about foo">
               <div class="about__inner">
-                <h2><a href="about.html">OUR STORY</a></h2>
+                <h2><a href="about.html">NUESTRA HISTORIA</a></h2>
                 <p>
-                  On the other hand, we denounce with righteous indignation
-                  and dislike men who are so beguiled demoralized On the other
-                  hand, we denounce with
+                  STCC fue formada en 1987 por Alfredo Quintero y López. Después de haber prestado sus servicios a la Secretaría de Comunicaciones y Transportes durante treinta años.
                 </p>
-                <div class="about__btn">
-                  <a href="about.html">READ MORE</a>
-                </div>
                 <div class="about__icon">
                   <img src="assets/images/others/icon/1.png" alt="icon images" />
                 </div>
               </div>
               <div class="about__inner about__hober__info">
-                <h2><a href="about.html">OUR STORY</a></h2>
+                <h2><a href="about.html">NUESTRA HISTORIA</a></h2>
                 <p>
-                  On the other hand, we denounce with righteous indignation
-                  and dislike men who are so beguiled demoralized On the other
-                  hand, we denounce with
+                  Como Jefe de Laboratorio de Control de Calidad en Carreteras Federales, se establece en Cihuatlán, Jalisco para construir esta empresa para el servicio de control de calidad
                 </p>
                 <div class="about__btn">
                   <a href="about.html">READ MORE</a>
@@ -171,7 +153,7 @@
           <div class="col-md-4 col-lg-3 col-sm-6 col-xs-12">
             <div class="about foo">
               <div class="about__inner">
-                <h2><a href="about.html">ABOUT US</a></h2>
+                <h2><a href="about.html">MISIÓN</a></h2>
                 <p>
                   On the other hand, we denounce with righteous indignation
                   and dislike men who are so beguiled demoralized On the other
@@ -185,11 +167,9 @@
                 </div>
               </div>
               <div class="about__inner about__hober__info active">
-                <h2><a href="about.html">ABOUT US</a></h2>
+                <h2><a href="about.html">MISIÓN</a></h2>
                 <p>
-                  On the other hand, we denounce with righteous indignation
-                  and dislike men who are so beguiled demoralized On the other
-                  hand, we denounce with
+                  Proveer resultados de ensayos e información confiables a nuestros clientes para la toma de decisiones acertadas en sus proyectos de construcción.
                 </p>
                 <div class="about__btn">
                   <a href="about.html">READ MORE</a>
@@ -203,11 +183,9 @@
           <div class="col-md-4 col-lg-3 hidden-sm col-xs-12">
             <div class="about foo">
               <div class="about__inner">
-                <h2><a href="about.html">OUR CERTIFICATE</a></h2>
+                <h2><a href="about.html">VISIÓN</a></h2>
                 <p>
-                  On the other hand, we denounce with righteous indignation
-                  and dislike men who are so beguiled demoralized On the other
-                  hand, we denounce with
+                  Lograr consolidar a la empresa como la más confiable de la región en la provisión de información técnica a nuestros clientes.
                 </p>
                 <div class="about__btn">
                   <a href="about.html">READ MORE</a>
@@ -254,14 +232,10 @@
                 <div class="col-xs-12">
                   <div class="section__title text-left">
                     <h2 class="title__line">
-                      OUR <span class="text--theme">SERVICES</span>
+                      NUESTROS <span class="text--theme">SERVICIOS</span>
                     </h2>
                     <p>
-                      On the other hand, we denounce with righteous
-                      indignation and dislike men who are so beguiled and
-                      demoralized by the charms of pleasure of the moment, so
-                      blinded by desire, that they cannot foresee the pain and
-                      trouble
+                      Lorem ipsum dolor sit amet consectetur adipisicing elit. Unde labore sit nihil optio deserunt, veniam est dolor, sapiente quaerat perferendis ex ratione porro eum totam alias, consequatur provident eaque corrupti.
                     </p>
                   </div>
                 </div>
@@ -276,12 +250,12 @@
                       </a>
                       <div class="service__hover">
                         <div class="service__action">
-                          <a href="single-service.html">DETAILS</a>
+                          <a href="single-service.html">DETALLES</a>
                         </div>
                       </div>
                     </div>
                     <div class="service__details">
-                      <h2><a href="single-service.html">CONSTRUCTION</a></h2>
+                      <h2><a href="single-service.html">CONTROL Y DISEÑO DE CONCRETO ASFÁLTICO E HIDRÁULICO</a></h2>
                     </div>
                   </div>
                 </div>
@@ -295,12 +269,12 @@
                       </a>
                       <div class="service__hover">
                         <div class="service__action">
-                          <a href="single-service.html">DETAILS</a>
+                          <a href="single-service.html">DETALLES</a>
                         </div>
                       </div>
                     </div>
                     <div class="service__details">
-                      <h2><a href="single-service.html">RENOVATION</a></h2>
+                      <h2><a href="single-service.html">CONTROL DE CALIDAD EN TERRACERÍAS Y PAVIMENTOS</a></h2>
                     </div>
                   </div>
                 </div>
@@ -314,12 +288,12 @@
                       </a>
                       <div class="service__hover">
                         <div class="service__action">
-                          <a href="single-service.html">DETAILS</a>
+                          <a href="single-service.html">DETALLES</a>
                         </div>
                       </div>
                     </div>
                     <div class="service__details">
-                      <h2><a href="single-service.html">ARCHITECTURE</a></h2>
+                      <h2><a href="single-service.html">ESTUDIOS DE MECÁNICA DE SUELOS</a></h2>
                     </div>
                   </div>
                 </div>
@@ -336,12 +310,10 @@
           <div class="col-xs-12">
             <div class="section__title text-center">
               <h2 class="title__line">
-                LATEST <span class="text--theme">PROJECTS</span>
+                ÚLTIMOS <span class="text--theme">PROYECTOS</span>
               </h2>
               <p>
-                On the other hand, we denounce with righteous indignation and
-                dislike men who are so beguiled and demoralized by the charms
-                of pleasure of the moment, so blinded by desire
+                Lorem, ipsum dolor sit amet consectetur adipisicing elit. Pariatur, nisi. Aliquam error, illo ducimus maxime aut a laudantium blanditiis nihil reprehenderit accusantium voluptatum suscipit ipsa similique, exercitationem non, alias nisi?
               </p>
             </div>
           </div>
@@ -455,17 +427,11 @@
           <div class="col-md-8 col-sm-12 col-xs-12">
             <div class="htc__callto__action">
               <h2>
-                # BEST <span class="text--theme">CONSTRUCTION</span> THEME
+                # LA MEJOR <span class="text--theme">MANERA </span> DE ENCONTRAR CALIDAD
               </h2>
               <p>
-                On the other hand, we denounce with righteous indignation and
-                dislike men who are so beguiled and demoralized by the charms
-                of pleasure of the moment, so blinded by desire, that they
-                cannot foresee the pain and trouble
+                Lorem ipsum dolor, sit amet consectetur adipisicing elit. Delectus dignissimos sed perferendis at vero esse in accusantium a harum repudiandae, magni praesentium et expedita vitae assumenda sint nostrum ipsam. Tempora!
               </p>
-              <div class="htc__call__btn">
-                <a class="htc__btn" href="#">BUY NOW</a>
-              </div>
             </div>
             <div class="htc__counterup__wrap" style="
                   background: rgba(0, 0, 0, 0) url(assets/images/bg/10.png) no-repeat
@@ -480,7 +446,7 @@
                     </div>
                   </div>
                   <div class="fact__title">
-                    <h2>PROJECTS</h2>
+                    <h2>PROYECTOS</h2>
                   </div>
                 </div>
               </div>
@@ -494,7 +460,7 @@
                     </div>
                   </div>
                   <div class="fact__title">
-                    <h2>CLIENTS</h2>
+                    <h2>CLIENTES</h2>
                   </div>
                 </div>
               </div>
@@ -508,7 +474,7 @@
                     </div>
                   </div>
                   <div class="fact__title">
-                    <h2>SUCCESS</h2>
+                    <h2>CERTIFICADOS</h2>
                   </div>
                 </div>
               </div>
@@ -522,7 +488,7 @@
                     </div>
                   </div>
                   <div class="fact__title">
-                    <h2>AWARDS</h2>
+                    <h2>LOGROS</h2>
                   </div>
                 </div>
               </div>
@@ -534,6 +500,16 @@
     </section>
     <div class="htc__brand__area">
       <div class="container">
+        <div class="row">
+          <div class="col-xs-12">
+            <div class="section__title text-center">
+              <h2 class="title__line">
+                NUESTROS <span class="text--theme">CLIENTES</span>
+              </h2>
+
+            </div>
+          </div>
+        </div>
         <div class="row">
           <div class="col-md-12">
             <ul class="brand__list">

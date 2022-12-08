@@ -1,11 +1,12 @@
 <meta charset="utf-8" />
 <meta http-equiv="x-ua-compatible" content="ie=edge" />
-<title>STCC</title>
+<title>STCC - Supervisiones Técnicas y Control de Calidad </title>
+<link rel="icon" href="assets/images/logo/logo.png" type="image/x-icon" />
 <meta name="description" content="Supervisiones Técnicas y Control de Calidad" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 
 <!-- Place favicon.ico in the root directory -->
-<link rel="shortcut icon" type="image/x-icon" href="images/favicon.ico" />
+<link rel="shortcut icon" type="image/x-icon" href="assets/images/logo/logo.png" />
 <link rel="apple-touch-icon" href="apple-touch-icon.png" />
 
 <!-- All css files are included here. -->
