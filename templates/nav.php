@@ -1,5 +1,4 @@
 <div id="header" class="htc-header">
-    <!-- Start Header Top -->
     <div class="htc__header__top bg__cat--1">
         <div class="container">
             <div class="row">
@@ -19,7 +18,7 @@
             <div class="row">
                 <div class="col-md-2 col-sm-6 col-xs-7">
                     <div class="logo">
-                        <a href="index.html">
+                        <a href="index.php">
                             <img src="assets/images/logo/logo.png" alt="logo image" />
                         </a>
                     </div>
@@ -27,21 +26,21 @@
                 <div class="col-md-8 col-sm-6 col-xs-5">
                     <nav class="main__menu__nav hidden-xs hidden-sm">
                         <ul class="main__menu">
-                            <li><a href="index.html">INICIO</a></li>
-                            <li><a href="about.html">ACERCA DE</a></li>
-                            <li><a href="service.html">SERVICIOS</a></li>
-                            <li><a href="projects-one.html">PROYECTOS</a></li>
-                            <li><a href="contact.html">CONTACTO</a></li>
+                            <li><a href="index.php">INICIO</a></li>
+                            <li><a href="about.php">ACERCA DE</a></li>
+                            <li><a href="service.php">SERVICIOS</a></li>
+                            <li><a href="projects-one.php">PROYECTOS</a></li>
+                            <li><a href="contact.php">CONTACTO</a></li>
                         </ul>
                     </nav>
                     <div class="mobile-menu clearfix visible-xs visible-sm">
                         <nav id="mobile_dropdown">
                             <ul>
-                                <li><a href="index.html">INICIO</a></li>
-                                <li><a href="about.html">ACERCA DE</a></li>
-                                <li><a href="service.html">SERVICIOS</a></li>
-                                <li><a href="projects-one.html">PROYECTOS</a></li>
-                                <li><a href="contact.html">CONTACTO</a></li>
+                                <li><a href="index.php">INICIO</a></li>
+                                <li><a href="about.php">ACERCA DE</a></li>
+                                <li><a href="service.php">SERVICIOS</a></li>
+                                <li><a href="projects-one.php">PROYECTOS</a></li>
+                                <li><a href="contact.php">CONTACTO</a></li>
                             </ul>
                         </nav>
                     </div>
