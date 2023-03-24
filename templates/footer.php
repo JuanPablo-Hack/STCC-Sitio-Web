@@ -9,10 +9,7 @@
                             <i class="zmdi zmdi-pin"></i>
                         </div>
                         <div class="ht__address__details">
-                            <p>
-                                Stock Building, 125 Main Street <br />1st Lane, San
-                                Francisco, USA
-                            </p>
+                            <p>Constitución # 23, Morelos, <br> 28217 Manzanillo, Col.</p>
                         </div>
                     </div>
                     <!-- End Single Address -->
@@ -22,8 +19,8 @@
                             <i class="fa fa-globe" aria-hidden="true"></i>
                         </div>
                         <div class="ht__address__details">
-                            <p><a href="#">info@example.com</a></p>
-                            <p><a href="#">www.example.com</a></p>
+                            <p><a href="mailto:contacto@stcc.com.mx">contacto@stcc.com.mx</a></p>
+                            <p><a href="www.stcc.com.mx">www.stcc.com.mx</a></p>
                         </div>
                     </div>
                     <!-- End Single Address -->
@@ -33,8 +30,7 @@
                             <i class="fa fa-phone" aria-hidden="true"></i>
                         </div>
                         <div class="ht__address__details">
-                            <p><a href="#">(001) 24568 365 987</a></p>
-                            <p><a href="#">(001) 65897 569 784</a></p>
+                            <p><a href="tel:+3143330500">314 333 0500</a></p>
                         </div>
                     </div>
                     <!-- End Single Address -->
