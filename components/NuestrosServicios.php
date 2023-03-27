@@ -3,8 +3,8 @@
         <div class="row">
             <div class="col-xs-12">
                 <div class="section__title text-center">
-                    <h2 class="title__line">OUR <span class="text--theme">SERVICES</span></h2>
-                    <p>On the other hand, we denounce with righteous indignation and dislike men who are so beguiled and demoralized by the charms of pleasure of the moment, so blinded by desire</p>
+                    <h2 class="title__line">NUESTROS <span class="text--theme">SERVICIOS</span></h2>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque excepturi sint voluptates odit laudantium ex nulla vel amet, corrupti veniam ab harum odio tempore accusamus voluptate, obcaecati quaerat similique iste?</p>
                 </div>
             </div>
         </div>
@@ -19,7 +19,7 @@
                             </a>
                             <div class="service__hover">
                                 <div class="service__action">
-                                    <a href="single-service.html">DETAILS</a>
+                                    <a href="single-service.html">DETALLES</a>
                                 </div>
                             </div>
                         </div>
@@ -38,7 +38,7 @@
                             </a>
                             <div class="service__hover">
                                 <div class="service__action">
-                                    <a href="single-service.html">DETAILS</a>
+                                    <a href="single-service.html">DETALLES</a>
                                 </div>
                             </div>
                         </div>
@@ -57,7 +57,7 @@
                             </a>
                             <div class="service__hover">
                                 <div class="service__action">
-                                    <a href="single-service.html">DETAILS</a>
+                                    <a href="single-service.html">DETALLES</a>
                                 </div>
                             </div>
                         </div>
@@ -76,7 +76,7 @@
                             </a>
                             <div class="service__hover">
                                 <div class="service__action">
-                                    <a href="single-service.html">DETAILS</a>
+                                    <a href="single-service.html">DETALLES</a>
                                 </div>
                             </div>
                         </div>
@@ -95,7 +95,7 @@
                             </a>
                             <div class="service__hover">
                                 <div class="service__action">
-                                    <a href="single-service.html">DETAILS</a>
+                                    <a href="single-service.html">DETALLES</a>
                                 </div>
                             </div>
                         </div>
@@ -114,7 +114,7 @@
                             </a>
                             <div class="service__hover">
                                 <div class="service__action">
-                                    <a href="single-service.html">DETAILS</a>
+                                    <a href="single-service.html">DETALLES</a>
                                 </div>
                             </div>
                         </div>
@@ -133,7 +133,7 @@
                             </a>
                             <div class="service__hover">
                                 <div class="service__action">
-                                    <a href="single-service.html">DETAILS</a>
+                                    <a href="single-service.html">DETALLES</a>
                                 </div>
                             </div>
                         </div>
@@ -152,7 +152,7 @@
                             </a>
                             <div class="service__hover">
                                 <div class="service__action">
-                                    <a href="single-service.html">DETAILS</a>
+                                    <a href="single-service.html">DETALLES</a>
                                 </div>
                             </div>
                         </div>

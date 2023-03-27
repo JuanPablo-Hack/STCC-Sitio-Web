@@ -4,14 +4,13 @@
             <div class="col-xs-12">
                 <div class="htc__bst__construc">
                     <div class="section__title text-center">
-                        <h2 class="title__line">BEST <span class="text--theme">CONSTRUCTION</span> THEME</h2>
-                        <p>On the other hand, we denounce with righteous indignation and dislike men who are so beguiled and demoralized by the charms of pleasure of the moment, so blinded by desire consectetur adipiscing</p>
-                    </div>
-                    <div class="htc__bst__btn text-center mt--30">
-                        <a class="htc__btn" href="contact.html">BUY NOW</a>
+                        <h2 class="title__line">LA <span class="text--theme">OPCIÓN </span> PARA TUS PROYECTOS</h2>
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusamus harum velit nesciunt deleniti, illum voluptatibus cumque nemo laboriosam recusandae ipsa voluptatum praesentium sapiente, possimus corporis quod placeat eveniet officiis inventore.
+                        <div class="htc__bst__btn text-center mt--30">
+                            <a class="htc__btn" href="contact.php">COTIZAR</a>
+                        </div>
                     </div>
                 </div>
             </div>
         </div>
-    </div>
 </section>

@@ -4,9 +4,9 @@
             <div class="row">
                 <div class="col-md-6 col-lg-6 col-sm-6 col-xs-12">
                     <ul class="heaher__top__left">
-                        <li><i class="fa fa-clock-o"></i>7.30 AM - 9.30 PM</li>
+                        <li><i class="fa fa-clock-o"></i>09:00 AM - 06:00 PM</li>
                         <li>
-                            <a href="#"><i class="fa fa-phone"></i>(001) 25465 258 369</a>
+                            <a href="tel:+3143330500"><i class="fa fa-phone"></i>314 333 0500</a>
                         </li>
                     </ul>
                 </div>

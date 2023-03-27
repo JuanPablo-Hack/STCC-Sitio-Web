@@ -32,7 +32,6 @@
         <?php include 'components/Historial.php'; ?>
         <?php include 'components/VentajasOfrecen.php'; ?>
         <?php include 'components/NuestroEquipo.php'; ?>
-        <?php include 'components/Testimoniales.php'; ?>
         <?php include 'components/HechosEmpresa.php'; ?>
         <?php include 'templates/footer.php'; ?>
     </div>

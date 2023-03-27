@@ -6,7 +6,6 @@
                     <h2 class="title__line">
                         NUESTROS <span class="text--theme">CLIENTES</span>
                     </h2>
-
                 </div>
             </div>
         </div>
@@ -14,19 +13,19 @@
             <div class="col-md-12">
                 <ul class="brand__list">
                     <li>
-                        <a href="#"><img src="assets/images/brand/1.jpg" alt="brand images" /></a>
+                        <img class="banner_img" src="assets/images/brand/api_mzo.png" alt="brand images" />
                     </li>
                     <li>
-                        <a href="#"><img src="assets/images/brand/2.jpg" alt="brand images" /></a>
+                        <img class="banner_img" src="assets/images/brand/alep.webp" alt="brand images" />
                     </li>
                     <li>
-                        <a href="#"><img src="assets/images/brand/3.jpg" alt="brand images" /></a>
+                        <img class="banner_img" src="assets/images/brand/Ardica.jpg" alt="brand images" />
                     </li>
                     <li>
-                        <a href="#"><img src="assets/images/brand/4.jpg" alt="brand images" /></a>
+                        <img class="banner_img" src="assets/images/brand/4.jpg" alt="brand images" />
                     </li>
                     <li>
-                        <a href="#"><img src="assets/images/brand/5.jpg" alt="brand images" /></a>
+                        <img class="banner_img" src="assets/images/brand/5.jpg" alt="brand images" />
                     </li>
                 </ul>
             </div>

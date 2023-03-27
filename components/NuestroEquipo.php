@@ -4,8 +4,8 @@
             <div class="row">
                 <div class="col-xs-12">
                     <div class="section__title text-center">
-                        <h2 class="title__line">OUR <span class="text--theme">TEAM</span></h2>
-                        <p>On the other hand, we denounce with righteous indignation and dislike men who are so beguiled and demoralized by the charms of pleasure of the moment, so blinded by desire</p>
+                        <h2 class="title__line">NUESTRO <span class="text--theme">EQUIPO</span></h2>
+                        <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Provident, reprehenderit! Provident odit corporis iusto, dolore voluptates perspiciatis. Quisquam, possimus, facere consectetur voluptatum atque temporibus excepturi nam ea, quidem iure voluptatem!</p>
                     </div>
                 </div>
             </div>
@@ -114,7 +114,6 @@
                             </div>
                         </div>
                     </div>
-                    <!-- End Single Team -->
                 </div>
             </div>
         </div>

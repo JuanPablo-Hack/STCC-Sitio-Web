@@ -12,7 +12,10 @@
                         # LA MEJOR <span class="text--theme">MANERA </span> DE ENCONTRAR CALIDAD
                     </h2>
                     <p>
-                        Lorem ipsum dolor, sit amet consectetur adipisicing elit. Delectus dignissimos sed perferendis at vero esse in accusantium a harum repudiandae, magni praesentium et expedita vitae assumenda sint nostrum ipsam. Tempora!
+                        STCC es una empresa comprometida con la calidad en el servicio y con la firme
+                        convicción de contar con personal competente para el correcto funcionamiento de sus
+                        procesos. Nuestras instalaciones se encuentran ubicadas en el puerto de Manzanillo,
+                        Colima, con domicilio fiscal en la calle Constitución No. 23, Col. Morelos.
                     </p>
                 </div>
                 <div class="htc__counterup__wrap" style="
@@ -24,7 +27,7 @@
                         <div class="fact__details">
                             <div class="funfact__count__inner">
                                 <div class="fact__count">
-                                    <span class="count">598</span>
+                                    <span class="count">65</span>
                                 </div>
                             </div>
                             <div class="fact__title">
@@ -32,13 +35,12 @@
                             </div>
                         </div>
                     </div>
-                    <!-- End Single Fact -->
-                    <!-- Start Single Fact -->
+
                     <div class="funfact hidden-md">
                         <div class="fact__details">
                             <div class="funfact__count__inner">
                                 <div class="fact__count">
-                                    <span class="count">128</span>
+                                    <span class="count">38</span>
                                 </div>
                             </div>
                             <div class="fact__title">
@@ -46,13 +48,11 @@
                             </div>
                         </div>
                     </div>
-                    <!-- End Single Fact -->
-                    <!-- Start Single Fact -->
                     <div class="funfact">
                         <div class="fact__details">
                             <div class="funfact__count__inner">
                                 <div class="fact__count">
-                                    <span class="count">339</span>
+                                    <span class="count">6</span>
                                 </div>
                             </div>
                             <div class="fact__title">
@@ -60,8 +60,6 @@
                             </div>
                         </div>
                     </div>
-                    <!-- End Single Fact -->
-                    <!-- Start Single Fact -->
                     <div class="funfact">
                         <div class="fact__details">
                             <div class="funfact__count__inner">
@@ -74,7 +72,6 @@
                             </div>
                         </div>
                     </div>
-                    <!-- End Single Fact -->
                 </div>
             </div>
         </div>

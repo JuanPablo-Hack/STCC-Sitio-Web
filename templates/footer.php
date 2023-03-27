@@ -23,8 +23,6 @@
                             <p><a href="www.stcc.com.mx">www.stcc.com.mx</a></p>
                         </div>
                     </div>
-                    <!-- End Single Address -->
-                    <!-- Start Single Address -->
                     <div class="ht__address__inner">
                         <div class="ht__address__icon">
                             <i class="fa fa-phone" aria-hidden="true"></i>
@@ -33,7 +31,6 @@
                             <p><a href="tel:+3143330500">314 333 0500</a></p>
                         </div>
                     </div>
-                    <!-- End Single Address -->
                 </div>
             </div>
         </div>

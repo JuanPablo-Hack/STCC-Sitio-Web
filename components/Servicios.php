@@ -17,13 +17,14 @@
                                     NUESTROS <span class="text--theme">SERVICIOS</span>
                                 </h2>
                                 <p>
-                                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Unde labore sit nihil optio deserunt, veniam est dolor, sapiente quaerat perferendis ex ratione porro eum totam alias, consequatur provident eaque corrupti.
+                                    STCC ha desarrollado e implementado un Sistema de Gestión de Calidad (SGC)
+                                    basado en los requerimientos de la norma ISO/IEC 17025:2005, el cual ha permitido la
+                                    modernización de nuestros procesos, cuyo beneficio ha sido el mejoramiento de la calidad de nuestros servicios, así como el incremento de la productividad.
                                 </p>
                             </div>
                         </div>
                     </div>
                     <div class="row">
-                        <!-- Start Single Service -->
                         <div class="col-md-4 col-lg-4 col-sm-4 col-xs-12">
                             <div class="service">
                                 <div class="service__thumb">
@@ -79,7 +80,6 @@
                                 </div>
                             </div>
                         </div>
-                        <!-- End Single Service -->
                     </div>
                 </div>
             </div>

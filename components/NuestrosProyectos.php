@@ -2,7 +2,6 @@
     <div class="container">
         <div class="row">
             <div class="htc__latest__project__wrap h1__project clearfix">
-                <!-- Start Single Project -->
                 <div class="col-md-5 col-lg-5 hidden-sm col-xs-12">
                     <div class="project__itm foo">
                         <div class="project__thumb">
@@ -18,7 +17,6 @@
                         </div>
                     </div>
                 </div>
-                <!-- End Single Project -->
                 <div class="col-md-7 col-lg-7 col-sm-6 col-xs-12">
                     <div class="row">
                         <div class="col-md-6">
