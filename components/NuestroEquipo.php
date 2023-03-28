@@ -5,7 +5,7 @@
                 <div class="col-xs-12">
                     <div class="section__title text-center">
                         <h2 class="title__line">NUESTRO <span class="text--theme">EQUIPO</span></h2>
-                        <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Provident, reprehenderit! Provident odit corporis iusto, dolore voluptates perspiciatis. Quisquam, possimus, facere consectetur voluptatum atque temporibus excepturi nam ea, quidem iure voluptatem!</p>
+                        <p>Proveer resultados de ensayos e información confiables a nuestros clientes para la toma de decisiones acertadas en sus proyectos de construcción.</p>
                     </div>
                 </div>
             </div>
