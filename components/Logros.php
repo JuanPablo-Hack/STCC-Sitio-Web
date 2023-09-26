@@ -7,11 +7,10 @@
                         <img src="assets/images/others/icon-2/1.png" alt="icon images" />
                     </div>
                     <div class="offer__details">
-                        <h2><a href="#">MEJOR CALIFICADA</a></h2>
+                        <h2><a href="#">Certificadas</a></h2>
                         <p>
-                        Cada año la Entidad Mexicana de Acreditación nos evalúa
-obteniendo resultados satisfactorios y manteniendo la acreditación
-vigente.                        </p>
+                        Entidad Mexicana de
+Acreditación, Acreditación C-0169-022/10   </p>
                     </div>
                 </div>
             </div>
@@ -23,9 +22,10 @@ vigente.                        </p>
                     <div class="offer__details">
                         <h2><a href="#">MEJOR CALIDAD</a></h2>
                         <p>
-                        Conforme con la política de ensayos de aptitud de la EMA,
-STCC participa cada año en al menos una de sus ramas acreditadas,
-obteniendo constantemente resultados satisfactorios .                        </p>
+                        Contamos con cinco perforadoras;
+MOBILE DRILLB-57, ACKER ACE N5W, LONGYEAR LX-6, LONGYEAR P-34 y
+GYX. A la vez también contamos con dos tractocamiones (TRACTOCAMIÓN
+BINGO y TRACTOCAMIÓN SAM)                    </p>
                     </div>
                 </div>
             </div>

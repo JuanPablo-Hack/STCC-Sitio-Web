@@ -28,9 +28,7 @@
                         <p>
                             Como Jefe de Laboratorio de Control de Calidad en Carreteras Federales, se establece en Cihuatlán, Jalisco para construir esta empresa para el servicio de control de calidad
                         </p>
-                        <div class="about__btn">
-                            <a href="about.html">READ MORE</a>
-                        </div>
+                       
                         <div class="about__icon">
                             <img src="assets/images/others/icon/1.png" alt="icon images" />
                         </div>
@@ -46,9 +44,7 @@
                             and dislike men who are so beguiled demoralized On the other
                             hand, we denounce with
                         </p>
-                        <div class="about__btn">
-                            <a href="about.html">READ MORE</a>
-                        </div>
+                       
                         <div class="about__icon">
                             <img src="assets/images/others/icon/2.png" alt="icon images" />
                         </div>
@@ -58,9 +54,7 @@
                         <p>
                             Proveer resultados de ensayos e información confiables a nuestros clientes para la toma de decisiones acertadas en sus proyectos de construcción.
                         </p>
-                        <div class="about__btn">
-                            <a href="about.html">READ MORE</a>
-                        </div>
+                       
                         <div class="about__icon">
                             <img src="assets/images/others/icon/2.png" alt="icon images" />
                         </div>
@@ -74,23 +68,17 @@
                         <p>
                             Lograr consolidar a la empresa como la más confiable de la región en la provisión de información técnica a nuestros clientes.
                         </p>
-                        <div class="about__btn">
-                            <a href="about.html">READ MORE</a>
-                        </div>
+                       
                         <div class="about__icon">
                             <img src="assets/images/others/icon/3.png" alt="icon images" />
                         </div>
                     </div>
                     <div class="about__inner about__hober__info">
-                        <h2><a href="about.html">OUR CERTIFICATE</a></h2>
+                        <h2><a href="about.html">CERTIFICADOS DE CONFIANZA</a></h2>
                         <p>
-                            On the other hand, we denounce with righteous indignation
-                            and dislike men who are so beguiled demoralized On the other
-                            hand, we denounce with
+                            Contamos con varias certificaciones de diferentes instituciones de confianza regidas por entes gubernamentales.
                         </p>
-                        <div class="about__btn">
-                            <a href="about.html">READ MORE</a>
-                        </div>
+                       
                         <div class="about__icon">
                             <img src="assets/images/others/icon/3.png" alt="icon images" />
                         </div>

@@ -4,7 +4,7 @@
             <div class="row">
                 <div class="col-xs-12">
                     <div class="section__title text-center">
-                        <h2 class="title__line">NUESTRO <span class="text--theme">EQUIPO</span></h2>
+                        <h2 class="title__line">NUESTRAS <span class="text--theme">ACREDITACIONES</span></h2>
                         <p>Proveer resultados de ensayos e información confiables a nuestros clientes para la toma de decisiones acertadas en sus proyectos de construcción.</p>
                     </div>
                 </div>
@@ -18,21 +18,11 @@
                                 <div class="team__thumb">
                                     <img src="assets/images/team/1.jpg" alt="team image">
                                 </div>
-                                <div class="team__hover__info">
-                                    <ul class="team__social__link">
-                                        <li><a href="#" target="_blank"><i class="fa fa-twitter"></i></a></li>
-
-                                        <li><a href="#" target="_blank"><i class="fa fa-instagram"></i></a></li>
-
-                                        <li><a href="#" target="_blank"><i class="fa fa-facebook"></i></a></li>
-
-                                        <li><a href="#" target="_blank"><i class="fa fa-google-plus"></i></a></li>
-                                    </ul>
-                                </div>
                             </div>
                             <div class="team__details">
-                                <h2><a href="#">STAWART SMITH</a></h2>
-                                <h4>Chief Engineer</h4>
+                                <h2><a href="#">Entidad Mexicana de
+Acreditación</a></h2>
+                                <h4>Acreditación C-0169-022/10</h4>
                             </div>
                         </div>
                     </div>

@@ -29,7 +29,7 @@
                             <li><a href="index.php">INICIO</a></li>
                             <li><a href="about.php">ACERCA DE</a></li>
                             <li><a href="service.php">SERVICIOS</a></li>
-                            <li><a href="projects-one.php">PROYECTOS</a></li>
+                            <!-- <li><a href="projects-one.php">PROYECTOS</a></li> -->
                             <li><a href="contact.php">CONTACTO</a></li>
                         </ul>
                     </nav>
@@ -39,7 +39,7 @@
                                 <li><a href="index.php">INICIO</a></li>
                                 <li><a href="about.php">ACERCA DE</a></li>
                                 <li><a href="service.php">SERVICIOS</a></li>
-                                <li><a href="projects-one.php">PROYECTOS</a></li>
+                                <!-- <li><a href="projects-one.php">PROYECTOS</a></li> -->
                                 <li><a href="contact.php">CONTACTO</a></li>
                             </ul>
                         </nav>

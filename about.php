@@ -30,9 +30,8 @@
         </div>
         <?php include 'components/AcercaDescripcion.php'; ?>
         <?php include 'components/Historial.php'; ?>
-        <?php include 'components/VentajasOfrecen.php'; ?>
-        <?php include 'components/NuestroEquipo.php'; ?>
-        <?php include 'components/HechosEmpresa.php'; ?>
+        <?php include 'components/Logros.php'; ?>
+        <?php include 'components/Certificados.php'; ?>
         <?php include 'templates/footer.php'; ?>
     </div>
 </body>

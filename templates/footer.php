@@ -60,7 +60,7 @@
                         </div>
                     </div>
 
-                    <div class="col-md-3 col-lg-2 col-lg-offset-1 col-sm-6 col-xs-12 smt-40 xmt-40">
+                    <!-- <div class="col-md-3 col-lg-2 col-lg-offset-1 col-sm-6 col-xs-12 smt-40 xmt-40">
                         <div class="footer foo">
                             <div class="footer__widget">
                                 <h2 class="ft__title">SERVICIOS</h2>
@@ -80,7 +80,7 @@
                                 </div>
                             </div>
                         </div>
-                    </div>
+                    </div> -->
                 </div>
             </div>
         </div>
